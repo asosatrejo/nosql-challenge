@@ -65,3 +65,4 @@ Use the following questions to explore the database, and find the answers, so yo
 - 12.2 PyMongo and Advanced Queries Slides
 - [db.collection.deleteMany()](https://www.mongodb.com/docs/rapid/reference/method/db.collection.deleteMany/)
 - [Python MongoDB – Update_many Query](https://www.geeksforgeeks.org/python-mongodb-update_many-query/#)
+- [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
